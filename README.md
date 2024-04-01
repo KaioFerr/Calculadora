@@ -1,4 +1,4 @@
-Calculadora Responsiva
+# Calculadora Responsiva
 Este projeto consiste na criação de uma calculadora com interface visual utilizando os conceitos de responsividade, especialmente utilizando o conceito de flexbox.
 
 Visão Geral
